@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @April-Harrison
+- 👀 I’m interested in Information Security and Data Analysis
+- 🌱 I’m currently working on my Masters in Computer Science, with a focus on Information Security
